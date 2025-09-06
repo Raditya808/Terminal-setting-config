@@ -6,8 +6,7 @@ Repository ini berisi konfigurasi untuk mempercantik tampilan terminal menggunak
 1. Clone repo ini atau download file `.txt`.
    ```bash
    git clone https://github.com/Raditya808/Terminal-setting-config.git
-```
-```
+---
 ## Atau bisa menggunakan salah satu file ini
 
 ```powershell
@@ -78,6 +77,5 @@ function Clear-Terminal {
 }
 Set-Alias clear Clear-Terminal
 ```
----
+
  Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan [Home | Oh My Posh](https://ohmyposh.dev/). 
----
