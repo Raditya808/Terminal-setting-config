@@ -78,6 +78,6 @@ function Clear-Terminal {
 }
 Set-Alias clear Clear-Terminal
 ```
-```bash
+---
  Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan [Home | Oh My Posh](https://ohmyposh.dev/). 
-```
+---
