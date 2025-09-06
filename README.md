@@ -76,9 +76,19 @@ function Clear-Terminal {
     Show-Banner
 }
 Set-Alias clear Clear-Terminal
-
  
 ```
+## PICT 1
+<p align="center">
+  <img src="assets/Screenshot 2025-09-06 111630.png" alt="Sslogo" width="800px"/>
+</p>
+
+
+## PICT 2
+<p align="center">
+  <img src="assets/Screenshot 2025-09-06 111543.png" alt="Sslogo" width="800px"/>
+</p>
+
  Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan
  ------------------------------------------------------------------------------------------------
  [Home | Oh My Posh](https://ohmyposh.dev/). 
