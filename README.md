@@ -76,6 +76,10 @@ function Clear-Terminal {
     Show-Banner
 }
 Set-Alias clear Clear-Terminal
-```
 
- Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan [Home | Oh My Posh](https://ohmyposh.dev/). 
+ 
+```
+ Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan
+ ------------------------------------------------------------------------------------------------
+ [Home | Oh My Posh](https://ohmyposh.dev/). 
+
