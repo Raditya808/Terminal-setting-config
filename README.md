@@ -7,7 +7,8 @@ Repository ini berisi konfigurasi untuk mempercantik tampilan terminal menggunak
    ```bash
    git clone https://github.com/Raditya808/Terminal-setting-config.git
 ```
-## atau bisa menggunakan salah satu file ini
+```
+## Atau bisa menggunakan salah satu file ini
 
 ```powershell
 oh-my-posh init pwsh --config $env:P1.txt
