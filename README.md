@@ -89,6 +89,12 @@ Set-Alias clear Clear-Terminal
   <img src="assets/Screenshot 2025-09-06 111543.png" alt="Sslogo" width="800px"/>
 </p>
 
+## PICT 3 update
+<p align="center">
+  <img src="assets/Screenshot 2025-09-06 141227.png" alt="Sslogo" width="800px"/>
+</p>
+
+
  Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan
  ------------------------------------------------------------------------------------------------
  [Home | Oh My Posh](https://ohmyposh.dev/). 
