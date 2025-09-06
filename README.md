@@ -6,10 +6,12 @@ Repository ini berisi konfigurasi untuk mempercantik tampilan terminal menggunak
 1. Clone repo ini atau download file `.txt`.
    ```bash
    git clone https://github.com/Raditya808/Terminal-setting-config.git
-2. Atau bisa pakai versi tanpa clear dengan gambar
-    ```bash   
-   oh-my-posh init pwsh --config $env:P2.txt | Invoke-Expression
-
+2. Atau bisa pakai salah satu file diatas
+    ```bash  
+   oh-my-posh init pwsh --config $env:P1.txt
+    
+    oh-my-posh init pwsh --config $env:P2.txt
+```
 
 
 # Panduan Instalasi Oh My Posh ⚡
