@@ -6,32 +6,24 @@ Repository ini berisi konfigurasi untuk mempercantik tampilan terminal menggunak
 1. Clone repo ini atau download file `.txt`.
    ```bash
    git clone https://github.com/Raditya808/Terminal-setting-config.git
-2. Atau bisa pakai salah satu file diatas
-    ```bash  
-   oh-my-posh init pwsh --config $env:P1.txt
-    
-    oh-my-posh init pwsh --config $env:P2.txt
+```
+## atau bisa menggunakan salah satu file ini
+
+```powershell
+oh-my-posh init pwsh --config $env:P1.txt
+oh-my-posh init pwsh --config $env:P2.txt
 ```
 
-
-# Panduan Instalasi Oh My Posh ⚡
-
-Panduan ini membantu kamu mengatur tampilan terminal menggunakan [oh-my-posh](https://ohmyposh.dev/).
-
----
-
-## Install Oh My Posh
-Jalankan perintah berikut
-```bash
-cd c:\User\userdesktop\Documents\powershell
+## Install
+```powershell
+cd C:\Users\userdesktop\Documents\PowerShell
 ```
-
 ## Ubah konfigurasi file notepad
-```bash
+```powershell
 echo $profile
 ```
-## Paste file nya
 ```bash
+## File-config
 # ========== PowerShell Profile ==========
 
 # Oh My Posh (theme)
@@ -84,15 +76,7 @@ function Clear-Terminal {
     Show-Banner
 }
 Set-Alias clear Clear-Terminal
-
-# Opsional → panggil banner manual
-Set-Alias banner Show-Banner
 ```
-
-## Done
-
-# Panduan Instalasi Oh My Posh ⚡
-
-Panduan ini membantu kamu mengatur tampilan terminal menggunakan [Home | Oh My Posh](https://ohmyposh.dev/).
-
----
+```bash
+ Panduan Instalasi Oh My Posh ⚡ Panduan ini membantu kamu mengatur tampilan terminal menggunakan [Home | Oh My Posh](https://ohmyposh.dev/). 
+```
