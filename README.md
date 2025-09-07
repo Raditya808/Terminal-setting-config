@@ -12,6 +12,7 @@ Repository ini berisi konfigurasi untuk mempercantik tampilan terminal menggunak
 ```powershell
 oh-my-posh init pwsh --config $env:P1.txt
 oh-my-posh init pwsh --config $env:P2.txt
+oh-my-posh init pwsh --config $envP3.txt
 ```
 
 ## Install
@@ -92,6 +93,11 @@ Set-Alias clear Clear-Terminal
 ## PICT 3 update
 <p align="center">
   <img src="assets/Screenshot 2025-09-06 141227.png" alt="Sslogo" width="800px"/>
+</p>
+
+## PICT 4 + NEOVIM
+<p align="center">
+<img src="assets/Screenshot 2025-09-07 062412.png" alt="ss pict" width="800px"/>
 </p>
 
 
